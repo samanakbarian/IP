@@ -1,0 +1,26 @@
+# Beroenden
+node_modules/
+
+# Byggmapp
+dist/
+
+# Miljövariabler
+.env
+
+# Loggar
+logs
+*.log
+npm-debug.log*
+
+# Testfiler
+coverage/
+
+# OS-specifika filer
+.DS_Store
+Thumbs.db
+
+# IDE-filer
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace 
